@@ -2,7 +2,7 @@ const { Telegraf } = require("telegraf");
 const commands = require("./util/command");
 
 require("dotenv").config();
-const botToken = "7319418843:AAGEyYUrKe1nRfu5sJIr-PXF-NGM8mZpH28";
+const botToken = "process.env.BOT_TOKEN";
 
 const bot = new Telegraf(botToken);
 
