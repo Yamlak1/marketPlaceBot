@@ -1,0 +1,74 @@
+{
+  "sessions": [
+    {
+      "id": "6578964706:6578964706",
+      "data": {
+        "itemId": "13",
+        "sellerItemId": "13",
+        "sellerChatId": 499416454,
+        "step": "waitingForPayment",
+        "buyerFullName": "Y1",
+        "buyersEmail": "y1@gmail.com",
+        "buyersPhoneNumber": "093312314",
+        "termsAccepted": true,
+        "paymentData": {
+          "amount": "1",
+          "reason": "baby cloth 13",
+          "successRedirectUrl": "https://test.com/success",
+          "failureRedirectUrl": "https://test.com/failure",
+          "notifyUrl": "https://test.com/notify",
+          "cancelRedirectUrl": "https://test.com/cancel",
+          "itemId": "13",
+          "buyerChatId": 6578964706,
+          "phoneNumber": "+251946270789"
+        }
+      }
+    },
+    {
+      "id": "1648265210:1648265210",
+      "data": {
+        "itemId": "4",
+        "sellerItemId": "4",
+        "sellerChatId": 499416454,
+        "step": "WaitingForBuyersPayment",
+        "buyerFullName": "esu",
+        "buyersEmail": "esu",
+        "buyersPhoneNumber": "0910945592",
+        "termsAccepted": true
+      }
+    },
+    {
+      "id": "791233417:791233417",
+      "data": {
+        "itemId": "4",
+        "sellerItemId": "4",
+        "sellerChatId": 499416454,
+        "step": "WaitingForBuyersPayment",
+        "buyerFullName": "hanif",
+        "buyersEmail": "nifomohad@gmail.com",
+        "buyersPhoneNumber": "0923776161",
+        "termsAccepted": true
+      }
+    },
+    {
+      "id": "415379196:415379196",
+      "data": {
+        "itemId": "14",
+        "sellerItemId": "14",
+        "sellerChatId": 499416454,
+        "paymentData": {
+          "amount": "1",
+          "reason": "Smartwatch 14",
+          "successRedirectUrl": "https://test.com/success",
+          "failureRedirectUrl": "https://test.com/failure",
+          "notifyUrl": "https://test.com/notify",
+          "cancelRedirectUrl": "https://test.com/cancel",
+          "itemId": "14",
+          "buyerChatId": 415379196,
+          "phoneNumber": "+251927348650"
+        },
+        "step": "waitingForPayment"
+      }
+    }
+  ]
+}
